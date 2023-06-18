@@ -1,0 +1,6 @@
+Right
+Straight
+Left
+Stop
+3
+5

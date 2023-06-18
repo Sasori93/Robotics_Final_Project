@@ -1,0 +1,30 @@
+item {
+  id: 1
+  name: 'Right'
+}
+
+item {
+  id: 2
+  name: 'Straight'
+}
+
+item {
+  id: 3
+  name: 'Left'
+}
+
+item {
+  id: 4
+  name: 'Stop'
+}
+
+item {
+  id: 5
+  name: '3'
+}
+
+item {
+  id: 6
+  name: '5'
+}
+
