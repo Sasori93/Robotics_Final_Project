@@ -1,0 +1,4 @@
+﻿Question,Choice1,Choice2,Choice3,Choice4,Urgent
+Place of fire happened,City,Suburb,Other,Forest,4
+Fire level,1 or 2,3,4,5,4
+Number of fire engines needed,<6,6~8,>=10,>=20,4
